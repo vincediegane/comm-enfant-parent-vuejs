@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h2><i><b>Communication ENFANT-PARENT entre COMPONENT</b></i></h2>
     <img src="./assets/img.jpg">
     <router-view/>
   </div>

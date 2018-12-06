@@ -39,6 +39,11 @@ export default {
                     id: 4,
                     name: 'Fanta',
                     age: 20
+                },
+                {
+                    id: 5,
+                    name: 'Amadou',
+                    age: 25
                 }
             ]
         }
