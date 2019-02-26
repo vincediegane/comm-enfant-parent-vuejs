@@ -1,6 +1,6 @@
 # communication-de-components
 
-> A Vue.js project
+> A Vue.js project by Vincent Diégane Faye
 
 ## Build Setup
 
